@@ -1,0 +1,95 @@
+body{
+    margin: 0px;
+    }
+header{
+    background-color: darkgrey;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin: 0;
+}
+#my_name {
+    font-family: "Franklin Gothic Medium";
+   margin-top: 0;
+    padding: 15px;
+    color: darkblue;
+    text-align: center;
+  }
+nav{
+    position: relative;
+    padding-bottom: 20px;
+    border-bottom: 2px solid darkgrey;
+    text-align: center;
+}
+
+.nv {
+    color: darkgrey;
+    text-decoration: none;
+    font-family: "Franklin Gothic Medium";
+    font-size: 1.2em;
+    margin: 10px
+
+}
+.nv:hover{
+
+    font-size: 1.2em;
+    color: black;
+}
+main{
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+
+}
+
+.photo{
+    text-align: center;
+    min-width: 20%;
+}
+
+.info{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+H2{
+    font-family: "Franklin Gothic Medium";
+    margin: 30px;
+    color: darkgrey;
+   }
+
+p{
+    font-family: sans-serif;
+    margin: 30px;
+}
+footer{
+    background-color: darkgray;
+    padding: 5px 15px 5px 15px;
+    margin: 0px;
+    display: block;
+}
+img{
+    min-width: 20%;
+    min-height: 20%;
+    box-shadow: 10px 10px 5px 3px darkgray;
+    border-color: dimgray;
+    margin: 5px 15px 5px 15px
+}
+
+a{
+    color: black;
+}
+
+.cont{
+    margin: 0px 0px 20px 0px
+}
+
+a[href="https://vk.com/bravoco32"]{
+    color: darkmagenta;
+}
+#iam{
+    font-family: "Franklin Gothic Medium";
+    margin: 15px;
+    color: black;
+}
+
